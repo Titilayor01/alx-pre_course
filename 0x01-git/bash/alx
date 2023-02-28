@@ -1,4 +1,2 @@
-Alx school is so cool!
-
-Alx School
-
+#!/bin/bash
+echo "School" 
